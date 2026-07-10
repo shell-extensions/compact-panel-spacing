@@ -1,0 +1,9 @@
+{
+  "uuid": "compact-panel-spacing@pappmann.com",
+  "name": "Compact Panel Spacing (Right)",
+  "description": "Reduces spacing between icons on the right side of the top bar.",
+  "shell-version": [
+    "46"
+  ],
+  "version": 1
+}

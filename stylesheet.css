@@ -1,0 +1,20 @@
+#panel .compact-panel-spacing-right .panel-button {
+  -natural-hpadding: 8px !important;
+  -minimum-hpadding: 3px !important;
+}
+
+#panel .compact-panel-spacing-right .panel-button .system-status-icon {
+  padding: 0 3px !important;
+  margin: 0 1px !important;
+}
+
+#panel .compact-panel-spacing-right .panel-button .panel-status-menu-box,
+#panel .compact-panel-spacing-right .panel-button .panel-status-indicators-box {
+  spacing: 2px !important;
+}
+
+#panel .compact-panel-spacing-right .panel-button .panel-status-menu-box > .system-status-icon,
+#panel .compact-panel-spacing-right .panel-button .panel-status-indicators-box > .system-status-icon {
+  padding: 0 !important;
+  margin: 0 1px !important;
+}
