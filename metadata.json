@@ -3,7 +3,11 @@
   "name": "Compact Panel Spacing (Right)",
   "description": "Reduces spacing between icons on the right side of the top bar.",
   "shell-version": [
-    "46"
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
   ],
   "version": 1,
   "license": "GPL-3.0-or-later"
